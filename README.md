@@ -6,5 +6,5 @@ so click the icon 👉👉<a href='https://codepen.io/ihebxxxjaouadi/pen/abNYYVe
 
 <hr/>
 
-<img src='images/label_input.PNG' width='800'>
-<img src='images/label_input2.PNG' width='800'>
+<img src='images/label_input.PNG' width='600'>
+<img src='images/label_input2.PNG' width='600'>
